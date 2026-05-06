@@ -6,3 +6,4 @@ Why Learn OpenCV?
 Comprehensive Image Processing: OpenCV has a range of functions to manipulate and analyze images helps in making 
 it ideal for various applications.
 Real-Time Video Processing: It supports video capture and real-time video processing.
+Cross-Platform: Works on multiple platforms like Windows, Linux, macOS and Android.
