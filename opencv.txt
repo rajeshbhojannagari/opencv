@@ -20,3 +20,4 @@ This section will introduce basic image operations like loading, saving and disp
 followed by more advanced image processing tasks.
 1. Image Processing and Enhancement
 This includes techniques that transform or enhance images for better visual quality and manipulation:
+2. Image Segmentation and Thresholding
