@@ -8,3 +8,4 @@ it ideal for various applications.
 2.Real-Time Video Processing: It supports video capture and real-time video processing.
 3.Cross-Platform: Works on multiple platforms like Windows, Linux, macOS and Android.
 4.Open-Source: It is free to use and has a large community support.
+5.Integration with Deep Learning: It integrates with popular deep learning libraries like TensorFlow and PyTorch.
