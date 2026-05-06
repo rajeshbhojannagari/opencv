@@ -15,3 +15,4 @@ Before moving into OpenCV, make sure we have set it up correctly in our environm
 Whether we're working on Windows, Linux, macOS or using Anaconda.
 
 Working with Images
+Here we see how to manipulate and process images with OpenCV in Python.
