@@ -3,7 +3,8 @@ It allows us to process images and videos, detect objects, faces and even handwr
 This tutorial will guide us through image and video processing from the basics to advanced topics using Python and OpenCV.
 We'll learn how to handle image transformations, feature extraction, object detection and more.
 Why Learn OpenCV?
-Comprehensive Image Processing: OpenCV has a range of functions to manipulate and analyze images helps in making 
+1.Comprehensive Image Processing: OpenCV has a range of functions to manipulate and analyze images helps in making 
 it ideal for various applications.
-Real-Time Video Processing: It supports video capture and real-time video processing.
-Cross-Platform: Works on multiple platforms like Windows, Linux, macOS and Android.
+2.Real-Time Video Processing: It supports video capture and real-time video processing.
+3.Cross-Platform: Works on multiple platforms like Windows, Linux, macOS and Android.
+4.Open-Source: It is free to use and has a large community support.
