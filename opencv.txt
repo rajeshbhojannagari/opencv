@@ -21,3 +21,4 @@ followed by more advanced image processing tasks.
 1. Image Processing and Enhancement
 This includes techniques that transform or enhance images for better visual quality and manipulation:
 2. Image Segmentation and Thresholding
+Techniques that help in dividing an image into meaningful regions or objects:
