@@ -23,3 +23,4 @@ This includes techniques that transform or enhance images for better visual qual
 2. Image Segmentation and Thresholding
 Techniques that help in dividing an image into meaningful regions or objects:
 3. Morphological Operations & Filtering
+Operations focused on structuring objects and reducing noise or unwanted features:
