@@ -2,3 +2,4 @@ OpenCV (Open Source Computer Vision Library) is an open-source computer vision a
 It allows us to process images and videos, detect objects, faces and even handwriting
 This tutorial will guide us through image and video processing from the basics to advanced topics using Python and OpenCV.
 We'll learn how to handle image transformations, feature extraction, object detection and more.
+Why Learn OpenCV?
