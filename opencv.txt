@@ -16,3 +16,5 @@ Whether we're working on Windows, Linux, macOS or using Anaconda.
 
 Working with Images
 Here we see how to manipulate and process images with OpenCV in Python.
+This section will introduce basic image operations like loading, saving and displaying images 
+followed by more advanced image processing tasks.
