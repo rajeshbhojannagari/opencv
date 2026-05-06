@@ -13,3 +13,5 @@ it ideal for various applications.
 Introduction to OpenCV
 Before moving into OpenCV, make sure we have set it up correctly in our environment. 
 Whether we're working on Windows, Linux, macOS or using Anaconda.
+
+Working with Images
